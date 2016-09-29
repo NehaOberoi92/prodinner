@@ -1,0 +1,4 @@
+D:\Project Practice\prodinnner\prodinner\Core\bin\Debug\Omu.ProDinner.Core.dll
+D:\Project Practice\prodinnner\prodinner\Core\bin\Debug\Omu.ProDinner.Core.pdb
+D:\Project Practice\prodinnner\prodinner\Core\obj\Debug\Omu.ProDinner.Core.dll
+D:\Project Practice\prodinnner\prodinner\Core\obj\Debug\Omu.ProDinner.Core.pdb

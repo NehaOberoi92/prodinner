@@ -1,0 +1,17 @@
+D:\Project Practice\prodinnner\prodinner\Infra\bin\Debug\Omu.ProDinner.Infra.dll
+D:\Project Practice\prodinnner\prodinner\Infra\bin\Debug\Omu.ProDinner.Infra.pdb
+D:\Project Practice\prodinnner\prodinner\Infra\bin\Debug\Castle.Core.dll
+D:\Project Practice\prodinnner\prodinner\Infra\bin\Debug\Castle.Windsor.dll
+D:\Project Practice\prodinnner\prodinner\Infra\bin\Debug\Omu.ProDinner.Resources.dll
+D:\Project Practice\prodinnner\prodinner\Infra\bin\Debug\Omu.ProDinner.Resources.pdb
+D:\Project Practice\prodinnner\prodinner\Infra\bin\Debug\Castle.Core.xml
+D:\Project Practice\prodinnner\prodinner\Infra\bin\Debug\Castle.Windsor.xml
+D:\Project Practice\prodinnner\prodinner\Infra\bin\Debug\de\Omu.ProDinner.Resources.resources.dll
+D:\Project Practice\prodinnner\prodinner\Infra\bin\Debug\es\Omu.ProDinner.Resources.resources.dll
+D:\Project Practice\prodinnner\prodinner\Infra\bin\Debug\fr\Omu.ProDinner.Resources.resources.dll
+D:\Project Practice\prodinnner\prodinner\Infra\bin\Debug\it\Omu.ProDinner.Resources.resources.dll
+D:\Project Practice\prodinnner\prodinner\Infra\bin\Debug\ro\Omu.ProDinner.Resources.resources.dll
+D:\Project Practice\prodinnner\prodinner\Infra\bin\Debug\ru\Omu.ProDinner.Resources.resources.dll
+D:\Project Practice\prodinnner\prodinner\Infra\obj\Debug\Infra.csprojResolveAssemblyReference.cache
+D:\Project Practice\prodinnner\prodinner\Infra\obj\Debug\Omu.ProDinner.Infra.dll
+D:\Project Practice\prodinnner\prodinner\Infra\obj\Debug\Omu.ProDinner.Infra.pdb
